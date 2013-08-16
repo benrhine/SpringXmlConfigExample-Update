@@ -13,7 +13,7 @@ For me this is more of a memory aide as well as a learning tool.  I wanted to ha
 
 Spring MVC with XML Config
 =======================
-For the xml based config I have the servlet configured as 2.4 as servlet 2.4 is the highest version that will still run on a Tomcat 5.5 container as well as JSTL 1.1.2 (I will be updating these in another example). At the time of writing this, cobertura shows by test coverage to be around 94% of all lines of code.
+For the xml based config I have the servlet configured as 2.5 and JSTL 1.2. The original example SpringXmlConfigExample is configured for servlet 2.4 and JSTL 1.1.2 and can run on a legacy Tomcat instance 5.5. At the time of writing this, cobertura shows by test coverage to be around 94% of all lines of code.
 
 Setup
 ==============
